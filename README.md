@@ -160,6 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Sergio Quiroga - [Github](https://github.com/sergioq7777) / [Twitter](https://twitter.com/sergioq7777)
+
 Camilo Vaquero - [Github](https://github.com/camilooob) / [Twitter](https://twitter.com/)
 
 Second part of Airbnb: Joann Vuong
